@@ -7,4 +7,4 @@
 > Solution
 
 
-**NOTE: Please Put Files According To The Tags**
+**NOTE: Please Put Files According To Their Tags**
