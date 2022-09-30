@@ -23,6 +23,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 ## How to contribute to this project
 Here are 3 quick and painless ways to contribute to this project:
 - Find the suitable issue from Issues Section
+- Request for work on that issue till don't work 
 - Fork-Work-Pull
 - Add your name to the `CONTRIBUTORS.md` file
 
